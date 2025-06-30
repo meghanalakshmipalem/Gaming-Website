@@ -5,7 +5,7 @@ Welcome to my Gaming Website project! This is a front-end web application design
 
 
 Check out the project in action:  
-"C:\Users\HP\OneDrive\Desktop\websites\Gaming Website.mp4"
+
 
 ## 🚀 Features
 
