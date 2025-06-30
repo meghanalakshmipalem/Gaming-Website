@@ -26,18 +26,6 @@ Screenshots
 - **CSS3** – Styling, animations, responsiveness
 - **JavaScript** – DOM interactions, UI logic
 
-## 📁 Project Structure
-
-Gaming-Website/
-│
-├── index.html # Main HTML file
-├── style.css # Stylesheet
-├── script.js # JavaScript file
-├── assets/ # Images, videos, fonts
-│ ├── images/
-│ ├── videos/
-│ └── icons/
-└── README.md # Project documentation
 
 ## 💡 What I Learned
 
