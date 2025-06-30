@@ -3,8 +3,13 @@
 Welcome to my Gaming Website project! This is a front-end web application designed and built using **HTML**, **CSS**, and **JavaScript**, A responsive and visually appealing Gaming Website. Features include a video background, interactive UI elements, smooth navigation, and a modern layout. Designed to showcase game highlights and provide an engaging user experience across all devices.
 
 
+Screenshots
+![GW1](https://github.com/user-attachments/assets/cd4d54b1-3bb3-4b7e-9787-22eaac80d3c3)
+![GW2](https://github.com/user-attachments/assets/f2d50fb9-0711-4a67-968f-19b38486ec61)
+![Gw3](https://github.com/user-attachments/assets/56ac200c-37ca-4b91-a594-57c0a6e8610f)
 
-Check out the project in action:  
+
+
 
 
 ## 🚀 Features
